@@ -1,4 +1,4 @@
-<img src="/stan-alam/stan-alam/blob/master/contributions.svg" style="max-width: 100%;">
+<img src="/master/contributions.svg" style="max-width: 100%;">
 
 - 👋 Hi, I’m stan alam
 - 👀 I’m interested in ... 
