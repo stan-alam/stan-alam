@@ -1,3 +1,5 @@
+<img src="/stan-alam/stan-alam/blob/master/contributions.svg" style="max-width: 100%;">
+
 - 👋 Hi, I’m stan alam
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... Powershell 7 .NET
