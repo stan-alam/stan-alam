@@ -1,8 +1,8 @@
 <img src="/contributions.svg" style="max-width: 100%;">
 
 - 👋 Hi, I’m stan alam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Powershell 7. (in a month of lunches), and Ancient Egyptian Hieroglyphics( 5,121 years of lunches )
+- 👀 I’m interested in ... Rust
+- 🌱 I’m currently learning ... Powershell 7. (in a month of lunches), and Ancient Egyptian Hieroglyphs( 5,121 years of lunches )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
