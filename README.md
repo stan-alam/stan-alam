@@ -3,7 +3,7 @@
 - 👋 Hi, I’m stan alam
 - 👀 I’m interested in ... Rust
 - 🌱 I’m currently learning ... Powershell 7. (in a month of lunches), and Ancient Egyptian Hieroglyphs( 5,121 years of lunches )
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... music
 - 📫 How to reach me ...
 
 <!---
