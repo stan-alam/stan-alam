@@ -1,7 +1,7 @@
 <img src="/contributions.svg" style="max-width: 100%;">
 
 - 👋 Hi, I’m stan alam
-- 👀 I’m interested in ... Rust
+- 👀 I’m interested in ... Rust we trust
 - 🌱 I’m currently learning ... Powershell 7. (in a month of lunches), and Ancient Egyptian Hieroglyphs( 5,122 years of lunches )
 - 💞️ I’m looking to collaborate on ... music
 - 📫 How to reach me ...
