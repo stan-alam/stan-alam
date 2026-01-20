@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m stan alam
 - 👀 I’m interested in ... Rust we trust
-- 🌱 I’m currently learning ... Kubernetes (in a month of lunches), and Ancient Egyptian Hieroglyphs( 5,123 years of lunches )
+- 🌱 I’m currently learning ... Kubernetes (in a month of lunches), and Ancient Egyptian Hieroglyphs( 5,124 years of lunches )
 - 💞️ I’m looking to collaborate on ... music
 - 📫 How to reach me ...
 
